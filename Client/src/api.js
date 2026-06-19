@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:4000",
+  baseURL: "https://job-tracker-e6y1.onrender.com",
   headers: {
     "Content-Type": "application/json",
   },
