@@ -82,3 +82,5 @@ DELETE /api/applications/:id
 ## Demo
 
 - Demo video link: "https://player.cloudinary.com/embed/?cloud_name=dh8vmxbf4&public_id=Screen_Recording_2026-06-19_at_17.03.44_fiuzgy"
+
+Live demo link: "https://job-tracker-sigma-flax.vercel.app"
